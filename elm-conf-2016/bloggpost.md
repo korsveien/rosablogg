@@ -1,0 +1,31 @@
+Elm er et spennende språk for frontend som vi følger med på i BEKK. I Juni 2016 hadde vi Norges første Elm-meetup på våre lokaler på Vippetangen i Oslo, hvor Noah Hall fra California-baserte NoRedInk ga en introduksjon i Elm, før vi satte oss sammen og jobbet med diverse hobbyprosjekter og kodesnutter. é
+
+
+Det var derfor ikke helt tilfeldig at vi var fire BEKK-ere som valgte å være tilstede da verdens første Elm-konferanse gikk av stabelen i forrige måned. Konferansen ble holdt i St. Louis i Missouri som en prekonferanse til Strange Loop, noe som neppe er et tilfeldig valg heller. Det var nemlig her at Evan Czapliki, også fra NoRedInk, presenterte Elm bare noen år før. I ettertid har Elm fått vind i seilene, og flere ser nytteverdien av et enkelt funksjonelt språk som potensielt kan erstatte en jungel av Javascript-biblioteker og rammeverk.
+
+
+Evan Czapliki var også mannen som åpnet ballet på elm-conf, hvor han gjorde et poeng ut av hvor utfordrende det er å bygge en god kultur rundt språket. Det å utvikle selve programmeringsspråket er enkelt i forhold: Code is the easy part. Czapliki gikk deretter gjennom forskjellige tilnærminger til hvordan man bygger en slik kultur, og hvordan en stor organisasjon har andre mål og metoder enn et open source-prosjekt eller en startup. Han fortsatte så med å fokusere på hvilken arbeidsfilosofi og metodikk han og andre har når de jobber med å utvikle Elm. Både Czapliki og hans støttespillere har et fokus på å motstå det massive presset om å implementere nye features. Tvert imot fokuserer de heller på å unngå å implemetere features man til syvende og sist ikke trenger. Less is more. 
+
+
+https://youtu.be/DSjbTC-hvqQ?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd
+
+
+Vi bet oss også merke i Czapliki sin forklaring på hvorfor det tilsynelatende ligger så mange uløste issues på Elm sitt Github-repo. I stedet for å lage en spesialløsning for hver enkelt issue fortløpende foretrekker Czapliki en annen framgangsmåte. Han tar seg god tid til å tenke, diskutere og eksperimentere seg fram til hva slags underliggende problemstillinger mange av disse issuene har til felles. På denne måten er det mulig å komme fram til en implementasjon som favner over flere problemer av gangen, og dermed kan man løse alle disse i én fei.
+
+
+Etter Czapliki sin keynote, fortsetter konferansen med foredrag som hvordan strukturere et større prosjekt i Elm, generering av tilfeldige romerske navn, en interaktiv webapplikasjon for historiefortelling og en musikkgenerator som leser tweets. Kanskje spesielt interessant var foredraget av Luke Evans, som forteller om hvordan verden ser ut for en utvikler som lider av ADHD. Evans har nemlig denne diagnosen selv. Han forteller om hvordan et språk som Elm bidro til å stagge symptomene han opplevde. En av årsakene var at Elm fjernet distraksjonen av å måtte ta for mange valg rundt hvilke biblioteker og rammeverk han skulle bruke, et problem han ofte opplevde i Javascript-verdenen. I Elm-verdenen har man et uttalt mål om å etablere “offisielle” biblioteker for typiske oppgaver som ruting eller asynkrone HTTP-requester. Dermed sørger man for at det er kun ett bibliotek og én måte å utføre slike oppgaver på, i stedet for at det er hundrevis. Noen ganger er ensretting helt greit.
+
+
+Det siste foredraget ble holdt av Richard Feldman. Feldman er en av de mest profilerte Elm-evangelistene, og fast inventar på ymse konferanser hvor han ofte presenterer fordelene med Elm som et språk for frontend. Denne gangen var heller ikke et unntak, og Feldman holdt et foredrag vi vurderer som det med høyest praktisk nytteverdi. Hvordan gjør man det umulig å havne i en uønsket tilstand i applikasjonen din? Selv om presentasjonen viser fordelene ved et sterkt typet språk som Elm, er det også her mye overførbar kunnskap til andre språk. For oss åpnet det øyene våre for hvilke relativt enkle grep man kan ta for å gjøre en applikasjon langt mer robust. 
+
+
+https://www.youtube.com/watch?v=IcgmSRJHu_8
+
+
+Vi synes at verdens første elm-conf holdt et jevnt over høyt nivå, og vi er spent på veien videre for Elm. I sin keynote nevner Czapliki avslutningsvis at neste versjon av språket vil ha fokus på bedre debugging. Han demonstrerer en nokså imponerende debugger som viser historikken over tilstanden i applikasjonen og hvordan man kan hoppe fram og tilbake i denne historikken. Man kan i tillegg eksportere denne historikken for å importere den inn i en annen nettleser. 
+
+
+Noen av fordelene vi ser med Elm er et sterkt typesystem som gjør det betraktelig mer komfortabelt å gjøre endringer i frontendkode, at man slipper å måtte velge mellom en myriade av biblioteker og frontendrammeverk, samtidig som Elm er et nybegynnervennlig språk det er relativt lett å komme i gang med. Et eksempel på sistnevnte er det varierende erfaringsnivået på oss fire reiseglade BEKK-ere. Noen av oss hadde erfaring med Elm fra før via hobbyprosjekter, mens noen startet ikke før vi var på flyet på vei over til USA. Allikevel fikk alle utbytte av å være med på konferansen. Noe av årsaken kan forklares at om man har kjennskap til frontendteknologier som React og Redux vil man fort kjenne seg igjen i hvordan Elm er strukturert. Men i tillegg skyldes det mye av hvordan Elm-kulturen fokuserer på å være nybegynnervennlig, kanskje spesielt for de som ikke har mye erfaring med funksjonelle programmeringsspråk. Her hører man ikke noe snakk om verken currying eller monader, men man benytter seg av begge konseptene om man programmerer i Elm. Vi tror derfor at Elm er et godt språk å begynne med om man er nysgjerrig på funksjonell programmering og vil bare komme i gang med å lage noe. 
+
+
+Vi har ennå ikke brukt Elm i noe prosjekt hos oss i BEKK, og Elm er fortsatt et ungt språk med alle ulempende det medfører. API-er brytes, språket har irriterende bugs og det er få biblioteker samt begrenset med verktøystøtte. Det er med andre ord fortsatt en vei å gå for at språket skal bli mer modent. Men tar du en titt på vår teknologiradar vil du se at Elm er noe vi uansett vurderer å ta i bruk som et alternativ til React og Redux. Dette krever riktignok at vi finner et prosjekt som er riktig for Elm, at man starter i det små og at man har mot til å hoppe på en så ung men lovende teknologi.
