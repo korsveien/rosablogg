@@ -1,1 +1,1 @@
-Vi var fire BEKK-ere til stede da verdens første Elm-konferanse gikk av stabelen i USA
+Elm er et spennende språk for frontend som vi holder et lite øye med i BEKK. I september ble verden første Elm-konferanse holdt i St. Louis, USA. Bekk stilte med fire representanter, deriblant undertegnede. Denne bloggposten er en  oppsummering av vår opplevelse av konferansen og hvordan vi oppfatter miljøet og kulturen rundt Elm. 
