@@ -3,18 +3,13 @@ I Juni 2016 arrangerte vi i BEKK Norges første Elm-meetup på våre lokaler på
 
 Evan Czapliki var også mannen som åpnet ballet på elm-conf, hvor han gjorde et poeng ut av hvor utfordrende det er å bygge en god kultur rundt språket. Det å utvikle selve programmeringsspråket er enkelt i forhold: Code is the easy part. Czapliki gikk deretter gjennom forskjellige tilnærminger til hvordan man bygger en slik kultur, og hvordan en stor organisasjon har andre mål og metoder enn et open source-prosjekt eller en startup. Han fortsatte så med å fokusere på hvilken arbeidsfilosofi og metodikk han og andre har når de jobber med å utvikle Elm. Både Czapliki og hans støttespillere har et fokus på å motstå det massive presset om å implementere nye features. Tvert imot fokuserer de heller på å unngå å implementere features man til syvende og sist ikke trenger. Less is more. 
 
-
-https://youtu.be/DSjbTC-hvqQ?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DSjbTC-hvqQ?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd" frameborder="0" allowfullscreen></iframe>
 
 Etter Czapliki sin keynote, fortsetter konferansen med foredrag som hvordan strukturere et større prosjekt i Elm, generering av tilfeldige romerske navn, en interaktiv webapplikasjon for historiefortelling og en musikkgenerator som leser tweets. Kanskje spesielt interessant var foredraget av Luke Evans, som forteller om hvordan verden ser ut for en utvikler som lider av ADHD. Evans har nemlig denne diagnosen selv. Han forteller om hvordan et språk som Elm bidro til å stagge symptomene han opplevde. En av årsakene var at Elm fjernet distraksjonen av å måtte ta for mange valg rundt hvilke biblioteker og rammeverk han skulle bruke, et problem han ofte opplevde i Javascript-verdenen. I Elm-verdenen har man et uttalt mål om å etablere “offisielle” biblioteker for typiske oppgaver som ruting eller asynkrone HTTP-requester. Dermed sørger man for at det er kun ett bibliotek og én måte å utføre slike oppgaver på, i stedet for at det er hundrevis. Noen ganger er ensretting helt greit.
 
-
 Det siste foredraget ble holdt av Richard Feldman. Feldman er en av de mest profilerte Elm-evangelistene, og fast inventar på ymse konferanser hvor han ofte presenterer fordelene med Elm som et språk for frontend. Denne gangen var heller ikke et unntak, og Feldman holdt et foredrag vi vurderer som det med høyest praktisk nytteverdi. Hvordan gjør man det umulig å havne i en uønsket tilstand i applikasjonen din? Selv om presentasjonen viser fordelene ved et sterkt typet språk som Elm, er det også her mye overførbar kunnskap til andre språk. For oss åpnet det øyene våre for hvilke relativt enkle grep man kan ta for å gjøre en applikasjon langt mer robust. 
 
-
-https://www.youtube.com/watch?v=IcgmSRJHu_8
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IcgmSRJHu_8" frameborder="0" allowfullscreen></iframe>
 
 Vi synes at verdens første elm-conf holdt et jevnt over høyt nivå, og vi er spent på veien videre for Elm. I sin keynote nevner Czapliki avslutningsvis at neste versjon av språket vil ha fokus på bedre debugging. Han demonstrerer en nokså imponerende debugger som viser historikken over tilstanden i applikasjonen og hvordan man kan hoppe fram og tilbake i denne historikken. Man kan i tillegg eksportere denne historikken for å importere den inn i en annen nettleser. 
 
