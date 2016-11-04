@@ -7,9 +7,6 @@ Evan Czapliki var også mannen som åpnet ballet på elm-conf, hvor han gjorde e
 https://youtu.be/DSjbTC-hvqQ?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd
 
 
-Vi bet oss også merke i Czapliki sin forklaring på hvorfor det tilsynelatende ligger så mange uløste issues på Elm sitt Github-repo. I stedet for å lage en spesialløsning for hver enkelt issue fortløpende foretrekker Czapliki en annen framgangsmåte. Han tar seg god tid til å tenke, diskutere og eksperimentere seg fram til hva slags underliggende problemstillinger mange av disse issuene har til felles. På denne måten er det mulig å komme fram til en implementasjon som favner over flere problemer av gangen, og dermed kan man løse alle disse i én fei.
-
-
 Etter Czapliki sin keynote, fortsetter konferansen med foredrag som hvordan strukturere et større prosjekt i Elm, generering av tilfeldige romerske navn, en interaktiv webapplikasjon for historiefortelling og en musikkgenerator som leser tweets. Kanskje spesielt interessant var foredraget av Luke Evans, som forteller om hvordan verden ser ut for en utvikler som lider av ADHD. Evans har nemlig denne diagnosen selv. Han forteller om hvordan et språk som Elm bidro til å stagge symptomene han opplevde. En av årsakene var at Elm fjernet distraksjonen av å måtte ta for mange valg rundt hvilke biblioteker og rammeverk han skulle bruke, et problem han ofte opplevde i Javascript-verdenen. I Elm-verdenen har man et uttalt mål om å etablere “offisielle” biblioteker for typiske oppgaver som ruting eller asynkrone HTTP-requester. Dermed sørger man for at det er kun ett bibliotek og én måte å utføre slike oppgaver på, i stedet for at det er hundrevis. Noen ganger er ensretting helt greit.
 
 
