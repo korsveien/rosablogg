@@ -16,7 +16,7 @@ Det siste foredraget ble holdt av Richard Feldman. Feldman er en av de mest prof
 
 *Et foredrag vi lærte mye av: Richard Feldman snakker om hvordan man kan gjøre uønskede tilstander umulige.*
 
-# Veien videre
+# Veien videre og vårt inntrykk av Elm
 
 Vi synes at verdens første elm-conf holdt et jevnt over høyt nivå, og vi er spent på veien videre for Elm. I sin keynote nevner Czapliki avslutningsvis at neste versjon av språket vil ha fokus på bedre debugging. Han demonstrerer en nokså imponerende debugger som viser historikken over tilstanden i applikasjonen og hvordan man kan hoppe fram og tilbake i denne historikken. Man kan i tillegg eksportere denne historikken for å importere den inn i en annen nettleser for å åpne applikasjonen rett inn i en spesifikk tilstand. 
 
