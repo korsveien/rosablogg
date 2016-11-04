@@ -6,13 +6,15 @@ Evan Czapliki var også mannen som åpnet ballet på [elm-conf](https://www.elm-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSjbTC-hvqQ?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd" frameborder="0" allowfullscreen></iframe>
 
-*Evan Czapliki forteller om hvordan man bygger en kultur rundt et språk*
+*Evan Czapliki forteller om hvordan man bygger en kultur rundt et programmeringsspråk.*
 
 Etter Czapliki sin keynote, fortsetter konferansen med foredrag som hvordan strukturere et større prosjekt i Elm, generering av tilfeldige romerske navn, en interaktiv webapplikasjon for historiefortelling og en musikkgenerator som leser tweets. Kanskje spesielt interessant var foredraget av Luke Evans, som forteller om hvordan verden ser ut for en utvikler som lider av ADHD. Evans har nemlig denne diagnosen selv. Han forteller om hvordan et språk som Elm bidro til å stagge symptomene han opplevde. En av årsakene var at Elm fjernet distraksjonen av å måtte ta for mange valg rundt hvilke biblioteker og rammeverk han skulle bruke, et problem han ofte opplevde i Javascript-verdenen. I Elm-verdenen har man et uttalt mål om å etablere “offisielle” biblioteker for typiske oppgaver som ruting eller asynkrone HTTP-requester. Dermed sørger man for at det er kun ett bibliotek og én måte å utføre slike oppgaver på, i stedet for at det er hundrevis. Noen ganger er ensretting helt greit.
 
 Det siste foredraget ble holdt av Richard Feldman. Feldman er en av de mest profilerte Elm-evangelistene, og fast inventar på ymse konferanser hvor han ofte presenterer fordelene med Elm som et språk for frontend. Denne gangen var heller ikke et unntak, og Feldman holdt et foredrag vi vurderer som det med høyest praktisk nytteverdi. Hvordan gjør man det umulig å havne i en uønsket tilstand i applikasjonen din? Selv om presentasjonen viser fordelene ved et sterkt typet språk som Elm, er det også her mye overførbar kunnskap til andre språk. For oss åpnet det øyene våre for hvilke relativt enkle grep man kan ta for å gjøre en applikasjon langt mer robust. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IcgmSRJHu_8" frameborder="0" allowfullscreen></iframe>
+
+*Richard Feldman snakker om hvordan man kan gjøre uønskede tilstander umulige.*
 
 # Våre inntrykk
 
