@@ -14,7 +14,7 @@ Det siste foredraget ble holdt av Richard Feldman. Feldman er en av de mest prof
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IcgmSRJHu_8" frameborder="0" allowfullscreen></iframe>
 
-*Richard Feldman snakker om hvordan man kan gjøre uønskede tilstander umulige.*
+*Foredraget vi følte hadde mest nytteverdi: Richard Feldman snakker om hvordan man kan gjøre uønskede tilstander umulige.*
 
 # Våre inntrykk
 
