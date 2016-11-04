@@ -22,4 +22,4 @@ Noen av fordelene vi ser med Elm er et sterkt typesystem som gjør det betraktel
 
 Vi har ennå ikke brukt Elm i noe prosjekt hos oss i BEKK, og Elm er fortsatt et ungt språk med alle ulempende det medfører. API-er brytes, språket har irriterende bugs og det er få biblioteker samt begrenset med verktøystøtte. Det er med andre ord fortsatt en vei å gå for at språket skal bli mer modent. Men tar du en titt på vår [teknologiradar](https://radar.bekk.no/tech2016/sprak-og-rammeverk) vil du se at Elm er noe vi uansett vurderer å ta i bruk som et alternativ til React og Redux. Dette krever riktignok at vi finner et prosjekt som er riktig for Elm, at man starter i det små og at man har mot til å hoppe på en så ung men lovende teknologi.
 
-*Stor takk til mine turkamerater Fredrik Valdmanis, Peter Hemmen og Bendik Solheim for tilbakemelding og innspill.* 
+*Stor takk til mine turkamerater Fredrik Valdmanis, Peter Hemmen og Bendik Solheim for tilbakemelding, innspill og hyggelig lag!* 
